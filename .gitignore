@@ -1,0 +1,6 @@
+.vscode
+build/*
+test/build/*
+
+Calc
+test/CalcTest
